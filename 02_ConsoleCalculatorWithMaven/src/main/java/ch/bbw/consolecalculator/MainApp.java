@@ -1,4 +1,4 @@
-package bbw.ch.Calculator22;
+package ch.bbw.consolecalculator;
 
 import javafx.application.Application;
 import static javafx.application.Application.launch;
@@ -31,9 +31,7 @@ public class MainApp extends Application {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
-    	
-    	
+        launch(args);
     }
 
 }

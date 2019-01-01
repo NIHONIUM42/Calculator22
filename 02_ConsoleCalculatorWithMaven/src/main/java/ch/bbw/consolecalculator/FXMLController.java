@@ -1,4 +1,4 @@
-package bbw.ch.Calculator22;
+package ch.bbw.consolecalculator;
 
 import java.net.URL;
 import java.util.ResourceBundle;
